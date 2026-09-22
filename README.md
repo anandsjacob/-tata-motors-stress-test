@@ -1,5 +1,4 @@
-# -tata-motors-stress-test
-Financial scenario modeling and stress-testing of Tata Motors using Excel and Power BI
+
 # Business Stress Testing & Survival Simulator: Tata Motors
 
 A forward-looking financial scenario model built on Tata Motors' consolidated financials — moving beyond a conventional descriptive dashboard into the kind of stress-testing typically associated with FP&A (Financial Planning & Analysis) or business analyst work.
